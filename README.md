@@ -11,7 +11,7 @@
 
 ## 📚 Learning
 
-- Deepening my understanding of **advanced database management** and **application security**.
+- Deepening my understanding of **application development**, **data structure and algorithm**, **advanced database management** and **overall programming skills**.
 
 ## 🤝 Let's Connect
 
