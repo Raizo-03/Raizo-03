@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello, I'm Ejay 👋
 
-<!--
-**Raizo-03/Raizo-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#I'm a computer science student focusing on application development, currently mastering **desktop and android applications** using languages such as **C# .NET** and **JAVA**. I have knowledge in database management using **MySQL** but am still striving to improve it.
 
-Here are some ideas to get you started:
+> "True nobility is being superior to your former self. Keep coding, brethrens. We will all make it."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages:** C# .NET, Java
+- **Database Management:** MySQL
+- **Platforms:** Desktop, Android
+
+## 📚 Learning
+
+- Deepening my understanding of **advanced database management** and **application security**.
+
+## 🤝 Let's Connect
+
+- 🐦 **Twitter:** [Ejay__B](https://twitter.com/Ejay__B)
+- 📘 **Facebook:** [EjayBuscato](https://www.facebook.com/EjayBuscato)
+- 🔗 **LinkedIn:** [buscato-eduardoii-1106482a0](https://www.linkedin.com/in/buscato-eduardoii-1106482a0/)
+- 🏆 **Stackoverflow:** [raizo](https://stackoverflow.com/users/23072251/raizo)
+- 🧩 **Codewars:** [Raizo-03](https://www.codewars.com/users/Raizo-03)
+
