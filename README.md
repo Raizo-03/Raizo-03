@@ -1,6 +1,6 @@
 ### Hello, I'm Ejay 👋
 
-###I'm a computer science student focusing on application development, currently mastering **desktop and android applications** using languages such as **C# .NET** and **JAVA**. I have knowledge in database management using **MySQL** but am still striving to improve it.
+# I'm a computer science student focusing on application development, currently mastering **desktop and android applications** using languages such as **C# .NET** and **JAVA**. I have knowledge in database management using **MySQL** but am still striving to improve it.
 
 > "True nobility is being superior to your former self. Keep coding, brethrens. We will all make it."
 
