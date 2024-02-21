@@ -17,7 +17,7 @@
 
 - 🐦 **Twitter:** [Ejay__B](https://twitter.com/Ejay__B)
 - 📘 **Facebook:** [EjayBuscato](https://www.facebook.com/EjayBuscato)
-- 🔗 **LinkedIn:** [buscato-eduardoii-1106482a0](https://www.linkedin.com/in/buscato-eduardoii-1106482a0/)
+- 🔗 **LinkedIn:** [buscato-eduardoii-1106482a0]([https://www.linkedin.com/in/buscato-eduardoii-1106482a0](https://www.linkedin.com/in/eduardo-ii-buscato-6729772b5/)/)
 - 🏆 **Stackoverflow:** [raizo](https://stackoverflow.com/users/23072251/raizo)
 - 🧩 **Codewars:** [Raizo-03](https://www.codewars.com/users/Raizo-03)
 
