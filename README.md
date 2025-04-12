@@ -1,9 +1,10 @@
 # 💫 About Me:
 Hello, I'm Ejay 👋<br>I'm a computer science student focusing on application development and web development.
+
  "True nobility is being superior to your former self. Keep coding, brethrens. We will all make it."
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/EjayBuscato) [![LinkedIn]([https://www.linkedin.com/in/eduardo-ii-buscato-6729772b5/](https://www.linkedin.com/in/eduardo-ii-buscato-6729772b5/)](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100090206619058) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ii-buscato-6729772b5/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/https://stackoverflow.com/users/23072251/raizo](https://stackoverflow.com/users/23072251/raizo)) 
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -16,6 +17,5 @@ Hello, I'm Ejay 👋<br>I'm a computer science student focusing on application d
 ![](https://github-profile-trophy.vercel.app/?username=Raizo-03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Raizo-03&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
