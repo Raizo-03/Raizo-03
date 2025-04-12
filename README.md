@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hello, I'm Ejay 👋<br>I'm a computer science student focusing on application development and web development.
+ "True nobility is being superior to your former self. Keep coding, brethrens. We will all make it."
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100090206619058) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eduardo-ii-buscato-6729772b5/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/https://stackoverflow.com/users/23072251/raizo](https://stackoverflow.com/users/23072251/raizo)) 
@@ -14,13 +15,7 @@ Hello, I'm Ejay 👋<br>I'm a computer science student focusing on application d
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Raizo-03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Raizo-03&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Raizo-03&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
