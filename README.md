@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello, I'm Ejay 👋<br>I'm a computer science student focusing on application development, currently mastering desktop and android applications using languages such as C# .NET and JAVA. I have knowledge in database management using MySQL but am still striving to improve it.<br><br>> "True nobility is being superior to your former self. Keep coding, brethrens. We will all make it."<br>🛠 Skills<br>- Languages: C# .NET, Java<br>- Database Management: MySQL<br>- Platforms: Desktop, Android<br>📚 Learning<br>Deepening my understanding of application development, data structure and algorithm, advanced database management and overall programming skills.
-
+Hello, I'm Ejay 👋<br>I'm a computer science student focusing on application development and web development.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100090206619058) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eduardo-ii-buscato-6729772b5/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/https://stackoverflow.com/users/23072251/raizo](https://stackoverflow.com/users/23072251/raizo)) 
