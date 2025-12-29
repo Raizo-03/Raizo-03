@@ -1,21 +1,91 @@
-# 💫 About Me:
-Hello, I'm Ejay 👋<br>I'm a computer science student focusing on application development and web development.
+<h1 align="center">Hi, I'm Raizo</h1>
+<h3 align="center">I'm a software engineer and I make websites, mobile apps, and desktop applications.</h3>
 
- "True nobility is being superior to your former self. Keep coding, brethrens. We will all make it."
+<p align="center">
+  <b>Open to collaboration and new opportunities.</b>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100090206619058) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ii-buscato-6729772b5/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/23072251/raizo](https://stackoverflow.com/users/23072251/raizo)) 
+<p align="center">
+  <a href="https://raizodev.vercel.app">
+    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="in/eduardo-ii-buscato-6729772b5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.fiverr.com/ejay_buscato">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+  <a href="mailto:buscatoeduardoII03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Raizo-03&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Raizo-03&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raizo-03&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Raizo-03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h3>Skills & Tools</h3>
 
+<h4>Programming Languages</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+</p>
+
+<h4>Frontend</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=css" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=vue" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=vuetify" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=chartjs" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+</p>
+
+
+<h4>Mobile App Development</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+</p>
+
+<h4>Databases</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+</p>
+
+<h4>Backend as a Service</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+</p>
+
+<h4>Frameworks</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+</p>
+
+<h4>DevOps</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=heroku" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=git" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+</p>
+
+
+<h4>Software & Tools</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" width="60" style="background:#fff;padding:8px;border-radius:10px;border:1px solid #e5e7eb;"/>
+</p>
 
 
 
