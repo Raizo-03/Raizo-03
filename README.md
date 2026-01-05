@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://raizodev.vercel.app">
+  <a href="https://raizo-dev.vercel.app">
     <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="in/eduardo-ii-buscato-6729772b5">
